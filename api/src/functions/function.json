@@ -8,7 +8,7 @@
           "GET"
         ],
         "name": "request",
-        "route": "getData"
+        "route": "GetData"
       },
       {
         "type": "http",
